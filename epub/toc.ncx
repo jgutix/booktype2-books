@@ -40,5 +40,12 @@
           <content src="Testing.xhtml"/>
         </navPoint>
         
+        <navPoint id="chapter4" playOrder="5">
+          <navLabel>
+            <text>zzz</text>
+          </navLabel>
+          <content src="zzz.xhtml"/>
+        </navPoint>
+        
       </navMap>
     </ncx>
