@@ -19,5 +19,12 @@
           <content src="ch00-1_introduction.xhtml"/>
         </navPoint>
         
+        <navPoint id="chapter1" playOrder="2">
+          <navLabel>
+            <text>Chapter 1</text>
+          </navLabel>
+          <content src="ch001_chapter-1.xhtml"/>
+        </navPoint>
+        
       </navMap>
     </ncx>
