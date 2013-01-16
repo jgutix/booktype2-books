@@ -1,28 +1,39 @@
-<package xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="primary_id">
-  <metadata>
-    <dc:publisher>Unknown</dc:publisher>
-    <dc:rights scheme="License">GPLv2+</dc:rights>
-    <dc:language>en</dc:language>
-    <dc:creator>The Contributors</dc:creator>
-    <dc:title>Booktype Tracker for Dummies</dc:title>
-    <dc:date scheme="start">2012.10.06-02.44</dc:date>
-    <dc:date scheme="last-modified">2012.12.05-00.00</dc:date>
-    <dc:date scheme="published">2012.12.14-00.27</dc:date>
-    <dc:identifier scheme="booki.cc" id="primary_id">http://booktype-demo.sourcefabric.org/booktype-tracker-for-dummies/2012.12.14-00.27</dc:identifier>
-  </metadata>
-  <manifest>
-    <item href="ch000_introduction.xhtml" media-type="application/xhtml+xml" id="ch000_introduction"/>
-    <item href="ch003_more-info-tasks.xhtml" media-type="application/xhtml+xml" id="ch003_more-info-tasks"/>
-    <item href="toc.ncx" media-type="application/x-dtbncx+xml" id="ncx"/>
-    <item href="ch002_task-states.xhtml" media-type="application/xhtml+xml" id="ch002_task-states"/>
-    <item href="ch001_adding-tasks.xhtml" media-type="application/xhtml+xml" id="ch001_adding-tasks"/>
-    <item href="objavi.css" media-type="text/css" id="css"/>
-  </manifest>
-  <spine toc="ncx">
-    <itemref idref="ch000_introduction"/>
-    <itemref idref="ch001_adding-tasks"/>
-    <itemref idref="ch002_task-states"/>
-    <itemref idref="ch003_more-info-tasks"/>
-  </spine>
-  <guide/>
-</package>
+
+    <package xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="primary_id">
+      <metadata>
+        <dc:publisher>Unknown</dc:publisher>
+        <dc:rights scheme="License">GPLv2+</dc:rights>
+        <dc:language>en</dc:language>
+        <dc:creator>The Contributors</dc:creator>
+        <dc:title>Booktype Tracker for Dummies</dc:title>
+        <dc:date scheme="start">2012.10.06-02.44</dc:date>
+        <dc:date scheme="last-modified">2012.12.05-00.00</dc:date>
+        <dc:date scheme="published">2012.12.14-00.27</dc:date>
+        <dc:identifier scheme="booki.cc" id="primary_id">http://booktype-demo.sourcefabric.org/booktype-tracker-for-dummies/2012.12.14-00.27</dc:identifier>
+      </metadata>
+      <manifest>
+          <item href="toc.ncx" media-type="application/x-dtbncx+xml" id="ncx"/>
+          <item href="objavi.css" media-type="text/css" id="css"/>
+          
+        <item href="Introduction.xhtml" media-type="application/xhtml+xml" id="Introduction"/>
+        
+        <item href="Chapter number 1.xhtml" media-type="application/xhtml+xml" id="Chapter number 1"/>
+        
+        <item href="Chapter number 2.xhtml" media-type="application/xhtml+xml" id="Chapter number 2"/>
+        
+        <item href="Chapter number 3.xhtml" media-type="application/xhtml+xml" id="Chapter number 3"/>
+        
+      </manifest>
+      <spine toc="ncx">
+          
+          <itemref idref="Introduction"/>
+          
+          <itemref idref="Chapter number 1"/>
+          
+          <itemref idref="Chapter number 2"/>
+          
+          <itemref idref="Chapter number 3"/>
+          
+      </spine>
+      <guide/>
+    </package>
