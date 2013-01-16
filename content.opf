@@ -15,24 +15,28 @@
           <item href="toc.ncx" media-type="application/x-dtbncx+xml" id="ncx"/>
           <item href="objavi.css" media-type="text/css" id="css"/>
           
-        <item href="Introduction.xhtml" media-type="application/xhtml+xml" id="Introduction"/>
+        <item href="ch000_introduction.xhtml" media-type="application/xhtml+xml" id="ch000_introduction"/>
         
-        <item href="Chapter number 1.xhtml" media-type="application/xhtml+xml" id="Chapter number 1"/>
+        <item href="ch001_chapter-number-1.xhtml" media-type="application/xhtml+xml" id="ch001_chapter-number-1"/>
         
-        <item href="Chapter number 2.xhtml" media-type="application/xhtml+xml" id="Chapter number 2"/>
+        <item href="ch002_chapter-number-2.xhtml" media-type="application/xhtml+xml" id="ch002_chapter-number-2"/>
         
-        <item href="Chapter number 3.xhtml" media-type="application/xhtml+xml" id="Chapter number 3"/>
+        <item href="ch003_chapter-number-3.xhtml" media-type="application/xhtml+xml" id="ch003_chapter-number-3"/>
+        
+        <item href="ch004_chapter-number-4.xhtml" media-type="application/xhtml+xml" id="ch004_chapter-number-4"/>
         
       </manifest>
       <spine toc="ncx">
           
-          <itemref idref="Introduction"/>
+          <itemref idref="ch000_introduction"/>
           
-          <itemref idref="Chapter number 1"/>
+          <itemref idref="ch001_chapter-number-1"/>
           
-          <itemref idref="Chapter number 2"/>
+          <itemref idref="ch002_chapter-number-2"/>
           
-          <itemref idref="Chapter number 3"/>
+          <itemref idref="ch003_chapter-number-3"/>
+          
+          <itemref idref="ch004_chapter-number-4"/>
           
       </spine>
       <guide/>
