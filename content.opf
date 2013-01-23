@@ -27,6 +27,8 @@
         
         <item href="ch005_what&#x27;s-wrong-with-this-picture?.xhtml" media-type="application/xhtml+xml" id="ch005_what&#x27;s-wrong-with-this-picture?"/>
         
+        <item href="ch006_kapitel-2.xhtml" media-type="application/xhtml+xml" id="ch006_kapitel-2"/>
+        
       </manifest>
       <spine toc="ncx">
           
@@ -41,6 +43,8 @@
           <itemref idref="ch004_chapter-number-4"/>
           
           <itemref idref="ch005_what&#x27;s-wrong-with-this-picture?"/>
+          
+          <itemref idref="ch006_kapitel-2"/>
           
       </spine>
       <guide/>
