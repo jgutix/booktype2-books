@@ -14,51 +14,9 @@
           
         <navPoint id="chapter0" playOrder="1">
           <navLabel>
-            <text>Introduction</text>
+            <text>Hello, chapter</text>
           </navLabel>
-          <content src="ch000_introduction.xhtml"/>
-        </navPoint>
-        
-        <navPoint id="chapter1" playOrder="2">
-          <navLabel>
-            <text>Chapter number 1</text>
-          </navLabel>
-          <content src="ch001_chapter-number-1.xhtml"/>
-        </navPoint>
-        
-        <navPoint id="chapter2" playOrder="3">
-          <navLabel>
-            <text>Chapter number 2</text>
-          </navLabel>
-          <content src="ch002_chapter-number-2.xhtml"/>
-        </navPoint>
-        
-        <navPoint id="chapter3" playOrder="4">
-          <navLabel>
-            <text>Chapter number 3</text>
-          </navLabel>
-          <content src="ch003_chapter-number-3.xhtml"/>
-        </navPoint>
-        
-        <navPoint id="chapter4" playOrder="5">
-          <navLabel>
-            <text>Chapter number 4</text>
-          </navLabel>
-          <content src="ch004_chapter-number-4.xhtml"/>
-        </navPoint>
-        
-        <navPoint id="chapter5" playOrder="6">
-          <navLabel>
-            <text>what&#x27;s wrong with this picture?</text>
-          </navLabel>
-          <content src="ch005_what&#x27;s-wrong-with-this-picture?.xhtml"/>
-        </navPoint>
-        
-        <navPoint id="chapter6" playOrder="7">
-          <navLabel>
-            <text>Kapitel 2</text>
-          </navLabel>
-          <content src="ch006_kapitel-2.xhtml"/>
+          <content src="ch000_hello,-chapter.xhtml"/>
         </navPoint>
         
       </navMap>
