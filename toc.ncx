@@ -40,5 +40,12 @@
           <content src="ch003_revert-capability?.xhtml"/>
         </navPoint>
         
+        <navPoint id="chapter4" playOrder="5">
+          <navLabel>
+            <text>TEST</text>
+          </navLabel>
+          <content src="ch004_test.xhtml"/>
+        </navPoint>
+        
       </navMap>
     </ncx>
