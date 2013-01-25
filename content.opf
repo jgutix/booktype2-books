@@ -17,10 +17,22 @@
           
         <item href="ch000_hello,-chapter.xhtml" media-type="application/xhtml+xml" id="ch000_hello,-chapter"/>
         
+        <item href="ch001_zahoor&#x27;s-chapter.xhtml" media-type="application/xhtml+xml" id="ch001_zahoor&#x27;s-chapter"/>
+        
+        <item href="ch002_the-wine.xhtml" media-type="application/xhtml+xml" id="ch002_the-wine"/>
+        
+        <item href="ch003_revert-capability?.xhtml" media-type="application/xhtml+xml" id="ch003_revert-capability?"/>
+        
       </manifest>
       <spine toc="ncx">
           
           <itemref idref="ch000_hello,-chapter"/>
+          
+          <itemref idref="ch001_zahoor&#x27;s-chapter"/>
+          
+          <itemref idref="ch002_the-wine"/>
+          
+          <itemref idref="ch003_revert-capability?"/>
           
       </spine>
       <guide/>
