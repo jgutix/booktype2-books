@@ -33,5 +33,12 @@
           <content src="ch002_the-wine.xhtml"/>
         </navPoint>
         
+        <navPoint id="chapter3" playOrder="4">
+          <navLabel>
+            <text>revert capability?</text>
+          </navLabel>
+          <content src="ch003_revert-capability?.xhtml"/>
+        </navPoint>
+        
       </navMap>
     </ncx>
