@@ -47,5 +47,12 @@
           <content src="ch004_test.xhtml"/>
         </navPoint>
         
+        <navPoint id="chapter5" playOrder="6">
+          <navLabel>
+            <text>aaaa</text>
+          </navLabel>
+          <content src="ch005_aaaa.xhtml"/>
+        </navPoint>
+        
       </navMap>
     </ncx>
