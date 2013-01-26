@@ -23,6 +23,10 @@
         
         <item href="ch003_revert-capability?.xhtml" media-type="application/xhtml+xml" id="ch003_revert-capability?"/>
         
+        <item href="ch004_test.xhtml" media-type="application/xhtml+xml" id="ch004_test"/>
+        
+        <item href="ch005_aaaa.xhtml" media-type="application/xhtml+xml" id="ch005_aaaa"/>
+        
       </manifest>
       <spine toc="ncx">
           
@@ -33,6 +37,10 @@
           <itemref idref="ch002_the-wine"/>
           
           <itemref idref="ch003_revert-capability?"/>
+          
+          <itemref idref="ch004_test"/>
+          
+          <itemref idref="ch005_aaaa"/>
           
       </spine>
       <guide/>
