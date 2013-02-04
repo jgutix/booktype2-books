@@ -26,5 +26,26 @@
           <content src="ch001_a.xhtml"/>
         </navPoint>
         
+        <navPoint id="chapter2" playOrder="3">
+          <navLabel>
+            <text>yest</text>
+          </navLabel>
+          <content src="ch002_yest.xhtml"/>
+        </navPoint>
+        
+        <navPoint id="chapter3" playOrder="4">
+          <navLabel>
+            <text>yest</text>
+          </navLabel>
+          <content src="ch003_yest.xhtml"/>
+        </navPoint>
+        
+        <navPoint id="chapter4" playOrder="5">
+          <navLabel>
+            <text>yest1</text>
+          </navLabel>
+          <content src="ch004_yest1.xhtml"/>
+        </navPoint>
+        
       </navMap>
     </ncx>
