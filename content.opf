@@ -27,6 +27,12 @@
         
         <item href="ch005_aaaa.xhtml" media-type="application/xhtml+xml" id="ch005_aaaa"/>
         
+        <item href="ch006_hmmmm.xhtml" media-type="application/xhtml+xml" id="ch006_hmmmm"/>
+        
+        <item href="ch007_sf.xhtml" media-type="application/xhtml+xml" id="ch007_sf"/>
+        
+        <item href="ch008_new-chapter.xhtml" media-type="application/xhtml+xml" id="ch008_new-chapter"/>
+        
       </manifest>
       <spine toc="ncx">
           
@@ -41,6 +47,12 @@
           <itemref idref="ch004_test"/>
           
           <itemref idref="ch005_aaaa"/>
+          
+          <itemref idref="ch006_hmmmm"/>
+          
+          <itemref idref="ch007_sf"/>
+          
+          <itemref idref="ch008_new-chapter"/>
           
       </spine>
       <guide/>
