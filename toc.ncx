@@ -68,5 +68,12 @@
           <content src="ch007_sf.xhtml"/>
         </navPoint>
         
+        <navPoint id="chapter8" playOrder="9">
+          <navLabel>
+            <text>New Chapter</text>
+          </navLabel>
+          <content src="ch008_new-chapter.xhtml"/>
+        </navPoint>
+        
       </navMap>
     </ncx>
