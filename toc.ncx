@@ -14,37 +14,9 @@
           
         <navPoint id="chapter0" playOrder="1">
           <navLabel>
-            <text>a</text>
+            <text>hey hey hey</text>
           </navLabel>
-          <content src="ch000_a.xhtml"/>
-        </navPoint>
-        
-        <navPoint id="chapter1" playOrder="2">
-          <navLabel>
-            <text>a</text>
-          </navLabel>
-          <content src="ch001_a.xhtml"/>
-        </navPoint>
-        
-        <navPoint id="chapter2" playOrder="3">
-          <navLabel>
-            <text>yest</text>
-          </navLabel>
-          <content src="ch002_yest.xhtml"/>
-        </navPoint>
-        
-        <navPoint id="chapter3" playOrder="4">
-          <navLabel>
-            <text>yest</text>
-          </navLabel>
-          <content src="ch003_yest.xhtml"/>
-        </navPoint>
-        
-        <navPoint id="chapter4" playOrder="5">
-          <navLabel>
-            <text>yest1</text>
-          </navLabel>
-          <content src="ch004_yest1.xhtml"/>
+          <content src="ch000_hey-hey-hey.xhtml"/>
         </navPoint>
         
       </navMap>
