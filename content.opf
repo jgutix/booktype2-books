@@ -15,28 +15,12 @@
           <item href="toc.ncx" media-type="application/x-dtbncx+xml" id="ncx"/>
           <item href="objavi.css" media-type="text/css" id="css"/>
           
-        <item href="ch000_a.xhtml" media-type="application/xhtml+xml" id="ch000_a"/>
-        
-        <item href="ch001_a.xhtml" media-type="application/xhtml+xml" id="ch001_a"/>
-        
-        <item href="ch002_yest.xhtml" media-type="application/xhtml+xml" id="ch002_yest"/>
-        
-        <item href="ch003_yest.xhtml" media-type="application/xhtml+xml" id="ch003_yest"/>
-        
-        <item href="ch004_yest1.xhtml" media-type="application/xhtml+xml" id="ch004_yest1"/>
+        <item href="ch000_hello-test.xhtml" media-type="application/xhtml+xml" id="ch000_hello-test"/>
         
       </manifest>
       <spine toc="ncx">
           
-          <itemref idref="ch000_a"/>
-          
-          <itemref idref="ch001_a"/>
-          
-          <itemref idref="ch002_yest"/>
-          
-          <itemref idref="ch003_yest"/>
-          
-          <itemref idref="ch004_yest1"/>
+          <itemref idref="ch000_hello-test"/>
           
       </spine>
       <guide/>
