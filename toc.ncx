@@ -14,9 +14,9 @@
           
         <navPoint id="chapter0" playOrder="1">
           <navLabel>
-            <text>hey hey hey</text>
+            <text>Hello test</text>
           </navLabel>
-          <content src="ch000_hey-hey-hey.xhtml"/>
+          <content src="ch000_hello-test.xhtml"/>
         </navPoint>
         
       </navMap>
