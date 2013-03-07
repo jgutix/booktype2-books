@@ -17,10 +17,14 @@
           
         <item href="ch000_hello-test.xhtml" media-type="application/xhtml+xml" id="ch000_hello-test"/>
         
+        <item href="ch001_test.xhtml" media-type="application/xhtml+xml" id="ch001_test"/>
+        
       </manifest>
       <spine toc="ncx">
           
           <itemref idref="ch000_hello-test"/>
+          
+          <itemref idref="ch001_test"/>
           
       </spine>
       <guide/>
