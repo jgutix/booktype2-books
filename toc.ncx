@@ -75,5 +75,12 @@
           <content src="ch008_new-chapter.xhtml"/>
         </navPoint>
         
+        <navPoint id="chapter9" playOrder="10">
+          <navLabel>
+            <text>PLOS</text>
+          </navLabel>
+          <content src="ch009_plos.xhtml"/>
+        </navPoint>
+        
       </navMap>
     </ncx>
