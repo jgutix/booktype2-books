@@ -33,6 +33,8 @@
         
         <item href="ch008_new-chapter.xhtml" media-type="application/xhtml+xml" id="ch008_new-chapter"/>
         
+        <item href="ch009_plos.xhtml" media-type="application/xhtml+xml" id="ch009_plos"/>
+        
       </manifest>
       <spine toc="ncx">
           
@@ -53,6 +55,8 @@
           <itemref idref="ch007_sf"/>
           
           <itemref idref="ch008_new-chapter"/>
+          
+          <itemref idref="ch009_plos"/>
           
       </spine>
       <guide/>
